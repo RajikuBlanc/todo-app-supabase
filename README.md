@@ -1,6 +1,4 @@
-# TS_BASE
-
-Typescript のベースプロジェクト
+# TODO-APP-SUPABASE
 
 ## Getting Started
 
